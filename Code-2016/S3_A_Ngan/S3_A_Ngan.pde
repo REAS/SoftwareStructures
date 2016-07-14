@@ -105,7 +105,7 @@ class Circle {
  
     for (int i=0; i<hairs.length; i++) { 
       hairs[i].updatePos(); 
-      //hairs[i].draw(); 
+      hairs[i].draw(); 
     } 
   } 
  
@@ -270,8 +270,8 @@ class Hair {
   } 
  
   void draw() { 
+    stroke(255);
     line( parent.x+regX, parent.y+regY, x, y ); 
- 
   } 
  
   void focus( float px, float py ) { 

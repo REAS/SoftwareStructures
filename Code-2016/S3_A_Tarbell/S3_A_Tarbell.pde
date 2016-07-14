@@ -1,4 +1,3 @@
-
 /* 
    
    A surface filled with one hundred medium to small sized circles. 

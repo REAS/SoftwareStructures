@@ -51,7 +51,6 @@ void setup()
       pat2 = pat1 + 1; 
     } 
   }
-  noLoop();
 } 
  
 float dir = 1; 
@@ -89,7 +88,6 @@ class Nub
     
     val = 0; 
     float ix = 1.0 - x;  // Inverse of X 
-    println(ix);
     
     if(pat1 == 1 || pat2 == 1) { 
       val += x*x; 

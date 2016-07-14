@@ -7,7 +7,7 @@
    >>> B. The aggregate intersections of the circles 
    
    Ported to p5.js by Casey Reas
-   11 July 2016
+   12 July 2016
    p5.js 0.5.2
  
    Restored by Casey Reas <http://reas.com> 
@@ -74,7 +74,7 @@ function draw() {
   var len = 10;
 
   stroke(255, 255, 255, 50);
-  // Draw every other one for better frame rate
+  // Draw every other one for better frame rate, 12 July 2016
   for (var i = 0; i < field.length; i += 2) {  
     for (var k = 0; k < field[0].length; k += 2) {
       ax = marginh + i * gaph;
