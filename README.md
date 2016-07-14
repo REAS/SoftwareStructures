@@ -7,6 +7,8 @@ I created three example "software structures" to search for relationships. To fu
 of software structures, I wrote and commissioned twenty-four implementations of these structures to isolate 
 different aspects including interpretation, material, and process.
 
+Includes code from Jared Tarbell, Robert Hodgin (@flight404), and William Ngan.
+
 The full context is here:
 http://artport.whitney.org/commissions/softwarestructures/
 
