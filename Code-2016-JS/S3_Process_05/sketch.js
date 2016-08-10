@@ -16,7 +16,7 @@
    22 June 2016 
    Processing v.3.1.1 <http://processing.org> 
   
-   Implemented by Casey Reas <http://groupc.net> 
+   Implemented by Casey Reas
    Uses circle intersection code from William Ngan <http://metaphorical.net> 
    Processing v.68 <http://processing.org> 
  

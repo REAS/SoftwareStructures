@@ -15,7 +15,7 @@
   22 June 2016 
   Processing v.3.1.1 <http://processing.org> 
   
-  Implemented as software by Casey Reas <http://groupc.net> 
+  Implemented as software by Casey Reas 
   March, 2004 
   Processing v.68 <http://processing.org> 
  

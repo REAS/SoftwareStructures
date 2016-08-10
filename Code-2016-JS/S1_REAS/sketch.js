@@ -23,7 +23,7 @@
    22 June 2016 
    Processing v.3.1.1 <http://processing.org> 
    
-   Implemented by Casey Reas <http://groupc.net> 
+   Implemented by Casey Reas
    10 April 2004 
    Processing v.68 <http://processing.org> 
  
