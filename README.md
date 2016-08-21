@@ -10,5 +10,5 @@ different aspects including interpretation, material, and process.
 This repo includes code from Jared Tarbell (jaredtarbell), Robert Hodgin (flight404), William Ngan (williamngan), and Casey Reas (REAS).
 
 The full context is here:
-http://artport.whitney.org/commissions/softwarestructures/
+http://whitney.org/Exhibitions/Artport/Commissions/SoftwareStructures
 
